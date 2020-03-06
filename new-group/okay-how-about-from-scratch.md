@@ -32,3 +32,9 @@ There's quite a lot of Chrome. Can I go fullscreen on content? No. Don't think s
 A hint to finish with
 {% endhint %}
 
+Ok that's impressive. Styling hints is a little different, but we can adapt to that as they're non GitHub MD native anyway.
+
+It turns groups into directories and then nests the pages inside them.
+
+Next let's see what nested pages look like...
+
