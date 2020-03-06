@@ -13,5 +13,6 @@ But:
 
 - You can't edit them in Slab: it kicks you back to GitHub for that
 - You can't sync Slab authored/edited content to GitHub
+- You can't comment or otherwise interact with the content outside of reading/searching for it (still useful)
 
 It's definitely an advantage over some of the competitors, but not quite at Gitbook's full two-way sync. Then again, Gitbook has its own issues.
