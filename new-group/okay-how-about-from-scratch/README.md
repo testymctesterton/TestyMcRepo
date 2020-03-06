@@ -9,7 +9,7 @@ SomeCode;
 If(blah) then(doopy)
 ```
 
-### Michael wasn't much of a coder
+## Michael wasn't much of a coder
 
 * There are some things that make sense in life
 * A good unordered list is one of them
@@ -24,7 +24,7 @@ If(blah) then(doopy)
 | Table 1 | Table 2 |
 | Table 3 | Table 4 |
 
-![An image](../.gitbook/assets/daria-nepriakhina-zocdwpuirua-unsplash.jpg)
+![An image](../../.gitbook/assets/daria-nepriakhina-zocdwpuirua-unsplash.jpg)
 
 There's quite a lot of Chrome. Can I go fullscreen on content? No. Don't think so.
 

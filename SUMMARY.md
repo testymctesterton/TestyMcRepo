@@ -5,5 +5,6 @@
 
 ## New Group
 
-* [Okay, how about from scratch](new-group/okay-how-about-from-scratch.md)
+* [Okay, how about from scratch](new-group/okay-how-about-from-scratch/README.md)
+  * [Nested page](new-group/okay-how-about-from-scratch/nested-page.md)
 
